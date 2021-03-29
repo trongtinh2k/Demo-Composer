@@ -1,0 +1,23 @@
+		{			
+		"name": "trongtinh2k/Demo-Composer",			
+		"description": "Create text",			
+		"keywords": [			
+		],			
+		"authors": [			
+		{			
+		"name": "trongtinh2k",			
+		"email": "trongtinh2k@gmail.com",
+		"homepage": "http://tailieuweb.com"		
+		}			
+		],			
+		"license": "MIT",			
+		"require": {			
+		},			
+		"autoload": {			
+		"psr-4": {			
+		"trongtinh2k\\Composer\\: "/"			
+		}			
+		},			
+		"minimum-stability": "dev"			
+		}			
+					
