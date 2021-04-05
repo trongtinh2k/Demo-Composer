@@ -11,7 +11,8 @@
 		}			
 		],			
 		"license": "MIT",			
-		"require": {			
+		"require": {	
+			"composer require tuancutedeptrai/reponaodo",
 		},			
 		"autoload": {			
 		"psr-4": {			
